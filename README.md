@@ -11,10 +11,10 @@
 
 **Individual Pages -**
 
-Security service 1 - Threat Detection and Response (Anomoly Detection & Real- time Response)
-Security service 2 - Predictive Analytics (Threat Forecasting & Behaviour Analysis)
-Security service 3 - Identity and Access Management (Biometric Authentication & Behavioural Biometrics)
-Security service 4 - Security Training and Awareness (Customised Training Programs & Simulated Attacks)
+Security service 1 - Threat Detection and Response (Anomoly Detection & Real- time Response)<br>
+Security service 2 - Predictive Analytics (Threat Forecasting & Behaviour Analysis)<br>
+Security service 3 - Identity and Access Management (Biometric Authentication & Behavioural Biometrics)<br>
+Security service 4 - Security Training and Awareness (Customised Training Programs & Simulated Attacks)<br>
 
 **Other pages -**
 
