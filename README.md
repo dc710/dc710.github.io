@@ -4,5 +4,5 @@ Details -
 
 Company Name: ????
 
-Company Aim: Provide Artificial Inteligence Security Services to businesses.
+Company Aim: Provide Artificial Intelligence Security Services to businesses.
 
