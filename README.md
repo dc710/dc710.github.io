@@ -1,6 +1,6 @@
-Collaborative website for Team project.
+**Collaborative website for Team project.**
 
-Details - 
+**Details -** 
 
 Company Name: ????
 
