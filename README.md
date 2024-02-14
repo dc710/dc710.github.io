@@ -4,7 +4,7 @@ Familiarise yourselves with github's layout before editing the web page. Editing
 
 When editing the webpage (index.html) any changes made should be documented in the pop up window that opens, **DO NOT** commit changes to **main branch!!**<br>
 
-Instead, you should select the option 'Create a new branch for this commit and start a pull request', found under the description of your changes. This will allow for approval of all updates we make to the website, and will prevent any accidents.<br>
+Instead, you should select the option 'Create a new branch for this commit and start a pull request'. This check box is located under the description of your changes. This will allow for approval of all updates we make to the website, and will prevent any accidents.<br>
 
 
 **PROJECT DETAILS**<br>
