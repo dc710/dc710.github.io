@@ -1,6 +1,6 @@
 **IMPORTANT READ ME**
 
-Familiarise yourselves with github's layout before editing the web page. Editing of the web page can be preformed by clicking the pen icon at the top right of the screen once you open the 'index.html' file<br>
+Familiarise   yourselves with github's layout before editing the web page. Editing of the web page can be preformed by clicking the pen icon at the top right of the screen once you open the 'index.html' file<br>
 
 When editing the webpage (index.html) any changes made should be documented in the pop up window that opens, **DO NOT** commit changes to **main branch!!**<br>
 
